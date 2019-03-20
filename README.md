@@ -10,10 +10,23 @@
 
 ### Basic Algorithm Scripting
 
-- 00 ✅ [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
-- 01 ✅ [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
-- 02 ✅ [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
+- 00 ✅ [Convert Celsius to Fahrenheit]
+- 01 ✅ [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
+- 02 ✅ [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 - 03 ✅ [Find the Longest Word in a String](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
+- 04 ⚠️ [Return Largest Numbers in Arrays]
+- 05 ⚠️ [Confirm the Ending]
+- 06 ⚠️ [Repeat a String Repeat a String]
+- 07 ⚠️ [Truncate a String]
+- 08 ⚠️ [Finders Keepers]
+- 09 ⚠️ [Boo Who]
+- 10 ⚠️ [Title Case a Sentence]
+- 11 ⚠️ [Slice and Splice]
+- 12 ⚠️ [Falsy Bouncer]
+- 13 ⚠️ [Where Do I Belong]
+- 14 ⚠️ [Mutations]
+- 15 ⚠️ [Chunky Money]
+- 16 ✅ [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
 
 ### Intermediate Algorithm Scripting
 
