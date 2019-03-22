@@ -3,14 +3,14 @@
 ### Responsive Web Design Projects
 
 - 00 ✅ [Tribute Page for Allen Iverson](https://codepen.io/simbaxo/full/xdbrRB/)
-- 01 ⚠️ [Survey Form]
+- 01 ⚠️ [Survey Form](https://codepen.io/simbaxo/pen/mzZGgg)
 - 02 ⚠️ [Product Landing Page]
 - 03 ⚠️ [Technical Documentation Page]
 - 04 ✅ [Personal Portfolio Project](https://codepen.io/simbaxo/full/vmORXq/) (update this!)
 
 ### Basic Algorithm Scripting
 
-- 00 ✅ [Convert Celsius to Fahrenheit]
+- 00 ✅ [Convert Celsius to Fahrenheit](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
 - 01 ✅ [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
 - 02 ✅ [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 - 03 ✅ [Find the Longest Word in a String](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
