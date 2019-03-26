@@ -4,8 +4,8 @@
 
 - 00 ✅ [Tribute Page for Allen Iverson](https://codepen.io/simbaxo/full/xdbrRB/)
 - 01 ⚠️ [Survey Form](https://codepen.io/simbaxo/pen/mzZGgg)
-- 02 ⚠️ [Product Landing Page]
-- 03 ⚠️ [Technical Documentation Page]
+- 02 ⚠️ [Product Landing Page]()
+- 03 ⚠️ [Technical Documentation Page]()
 - 04 ✅ [Personal Portfolio Project](https://codepen.io/simbaxo/full/vmORXq/) (update this!)
 
 ### Basic Algorithm Scripting
