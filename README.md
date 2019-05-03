@@ -14,7 +14,7 @@
 - 01 ✅ [Reverse a String](https://www.freecodecamp.org/challenges/reverse-a-string)
 - 02 ✅ [Factorialize a Number](https://www.freecodecamp.org/challenges/factorialize-a-number)
 - 03 ✅ [Find the Longest Word in a String](https://www.freecodecamp.org/challenges/find-the-longest-word-in-a-string)
-- 04 ⚠️ [Return Largest Numbers in Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)
+- 04 ✅ [Return Largest Numbers in Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)
 - 05 ⚠️ [Confirm the Ending](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending/)
 - 06 ⚠️ [Repeat a String Repeat a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string/)
 - 07 ⚠️ [Truncate a String](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string/)
