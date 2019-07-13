@@ -30,8 +30,8 @@
 
 ### Intermediate Algorithm Scripting
 
-- 00 ⚠️
-- 01 ⚠️
+- 00 ⚠️ []
+- 01 ⚠️ []
 - 02 ✅ [Seek and Destroy](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
 - 03 ⚠️
 - 04 ⚠️
