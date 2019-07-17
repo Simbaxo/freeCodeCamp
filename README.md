@@ -30,24 +30,24 @@
 
 ### Intermediate Algorithm Scripting
 
-- 00 ⚠️ []
-- 01 ⚠️ []
+- 00 ⚠️ [Sum All Numbers in a Range](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range/)
+- 01 ⚠️ [Diff Two Arrays](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays/)
 - 02 ✅ [Seek and Destroy](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
-- 03 ⚠️
-- 04 ⚠️
-- 05 ⚠️
-- 06 ⚠️
-- 07 ⚠️
-- 08 ⚠️
-- 09 ⚠️
-- 10 ⚠️
-- 11 ⚠️
-- 12 ⚠️
-- 13 ⚠️
-- 14 ⚠️
-- 15 ⚠️
-- 16 ⚠️
-- 17 ⚠️
-- 18 ⚠️
-- 19 ⚠️
-- 20 ⚠️
+- 03 ⚠️ [Where art thou]()
+- 04 ⚠️ [Spinal Tap Case]()
+- 05 ⚠️ [Pig Latin]()
+- 06 ⚠️ [Search and Replace]()
+- 07 ⚠️ [DNA Pairing]()
+- 08 ⚠️ [Missing Letters]()
+- 09 ⚠️ [Sorted Union]()
+- 10 ⚠️ [Convert HTML Entities]()
+- 11 ⚠️ [Sum All Odd Fibonacci Numbers]()
+- 12 ⚠️ [Sum All Primes]()
+- 13 ⚠️ [Smallest Common Multiple]()
+- 14 ⚠️ [Drop it]()
+- 15 ⚠️ [Steamroller]()
+- 16 ⚠️ [Binary Agents]()
+- 17 ⚠️ [Everything Be True]()
+- 18 ⚠️ [Arguments Optional]()
+- 19 ⚠️ [Make a Person]()
+- 20 ⚠️ [Map the Debris]()
