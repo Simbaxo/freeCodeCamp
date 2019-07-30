@@ -10,6 +10,7 @@ Return the resulting array. The input arrays should remain the same after the fu
 
 function frankenSplice(arr1, arr2, n) {
   // It's alive. It's alive!
+  console.log(arr1, n)
   return arr2
 }
 
