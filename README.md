@@ -23,7 +23,7 @@
 - 10 ✅ [Title Case a Sentence](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence/)
 - 11 ✅ [Slice and Splice](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice/)
 - 12 ✅ [Falsy Bouncer](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer/)
-- 13 ⚠️ [Where Do I Belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong/)
+- 13 ✅ [Where Do I Belong](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong/)
 - 14 ⚠️ [Mutations](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations/)
 - 15 ⚠️ [Chunky Monkey](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey/)
 - 16 ✅ [Check for Palindromes](https://www.freecodecamp.org/challenges/check-for-palindromes)
