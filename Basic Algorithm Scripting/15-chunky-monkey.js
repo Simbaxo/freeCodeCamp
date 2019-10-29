@@ -2,7 +2,11 @@
 
 function chunkArrayInGroups(arr, size) {
   // Break it up.
-  return arr;
+
+  return arr.slice(0, size)
+
 }
 
-chunkArrayInGroups(["a", "b", "c", "d"], 2);
+console.log(
+  chunkArrayInGroups(["a", "b", "c", "d"], 2)
+)
